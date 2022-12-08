@@ -18,6 +18,9 @@ code .
 ```
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+https://app.patika.dev/mehmetnltrk
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
